@@ -1,0 +1,213 @@
+    1  cd LinuxAdministration/30-11-19/
+    2  ld
+    3  ls
+    4  cd MobileBrandName/
+    5  ls
+    6  vi
+    7  cd
+    8  vim
+    9  vi
+   10  vi file1
+   11  mkdir akshay
+   12  cd akshay
+   13  echo "mumbai"> a.txt
+   14  cat a.txt
+   15  vim a.txt
+   16  vi a.txt
+   17  vi a.txt
+   18  vi a.txt
+   19  pwd
+   20  cd /opt/LinuxAdministration/30-11-19/
+   21  ls
+   22  cd
+   23  cd akshay
+   24  vi a.txt
+   25  vi a.txt
+   26  cd
+   27  cd /opt/
+   28  cp /opt/LinuxAdministration/30-11-19/a.txt
+   29  cd
+   30  cd akshay
+   31  cp /opt/LinuxAdministration/30-11-19/a.txt
+   32  cd
+   33  cp /opt/LinuxAdministration/30-11-19/a.txt
+   34  cp /LinuxAdministration/30-11-19/a.txt
+   35  cp a.txt/LinuxAdministration/30-11-19/
+   36  cp /a.txt/LinuxAdministration/30-11-19/
+   37  cd akshay/
+   38  cd
+   39  cd /opt/LinuxAdministration/30-11-19/
+   40  cp /a.txt/LinuxAdministration/30-11-19/
+   41  cd
+   42  pwd
+   43  cd /opt/
+   44  touch a.txt/{LinuxAdministration_30-11-19}
+   45  cd
+   46  ls
+   47  history 
+   48  cp a.txt
+   49  history 
+   50  cd akshay
+   51  cp a.txt{LinuxAdministrators/30-11-19}
+   52  cp --help
+   53  cd
+   54  pwd
+   55  ls
+   56  cd akshay/
+   57  ls
+   58  cp a.txt /opt/LinuxAdministration/30-11-19/
+   59  cd /opt/LinuxAdministration/30-11-19/
+   60  ls
+   61  cd
+   62  mkdir /oracle
+   63  cd /oracle/
+   64  touch a.txt
+   65  ls
+   66  cd
+   67  cd /oracle/
+   68  cd
+   69  cd /oracle/
+   70  ls
+   71  cp a.txt /opt/LinuxAdministration/30-11-19/
+   72  cp a.txt /opt/LinuxAdministration/30-11-19/
+   73  ls
+   74  cd
+   75  mkdir /redhat/
+   76  cd /redhat/
+   77  touch abc.txt
+   78  ls
+   79  cd
+   80  cd /redhat/
+   81  cp abc.txt /opt/LinuxAdministration/30-11-19/
+   82  ls
+   83  cd
+   84  mkdir /linux/
+   85  mkdir /redhat/
+   86  rmdir redhat
+   87  rmdir /redhat/
+   88  rmdir /linux/
+   89  ls
+   90  mkdir /linux/
+   91  mkdir/fedora/
+   92  mkdir/akshay/
+   93  mkdir /linux/
+   94  rmdir /linux/
+   95  ls
+   96  mkdir /he/
+   97  mkdir /dell/
+   98  mkdir /computer/
+   99  cd /he/
+  100  touch xyz.txt
+  101  cd
+  102  ls
+  103  cd /dell
+  104  cd
+  105  cd /he/
+  106  cp -r xyz.txt /dell/
+  107  ls
+  108  cd
+  109  cd /computer/
+  110  cd
+  111  cd /he/
+  112  cp -r xyz.txt /dell/
+  113  ls
+  114  cd
+  115  rm -rf xyz.txt
+  116  ls
+  117  rmdir /he/
+  118  rmdir he
+  119  cd /he/
+  120  rmdir he
+  121  rmdir /he/
+  122  cd
+  123  cd
+  124  cd /tmp
+  125  touch akshay.txt
+  126  cp akshay.txt akshay.pdf 
+  127  cp -v akshay.pdf akshay.jpg
+  128  ls
+  129  mkdir Backup
+  130  cp -v * Backup/
+  131  rm -rf Backup/
+  132  cp  * Backup/
+  133  mkdir Backup
+  134  cp  * Backup/
+  135  cp  -v* Backup/
+  136  cp  -v * Backup/
+  137  rm -rf Backup/
+  138  cp  -v * Backup/
+  139  cd /opt/
+  140  ls
+  141  cd Ajanta-photos/
+  142  ls
+  143  cd ..
+  144  ls -lrt
+  145  cd skypeforlinux/
+  146  ls
+  147  cd ..
+  148  cd google/
+  149  ls
+  150  cd chrome
+  151  ls
+  152  ls -lrt
+  153  mkdir /tmp/google
+  154  cp * /tmp/google/
+  155  rm -rf /tmp/google/
+  156  cp -v * /tmp/google/
+  157  mkdir /tmp/google
+  158  cp -v * /tmp/google/
+  159  l s-ler
+  160  cd ..
+  161  cd ..
+  162  ls -lrt
+  163  cd Ajanta-photos/
+  164  ls -lrt
+  165  cd
+  166  history 
+  167  ls
+  168  rm -rf xyz.txt
+  169  ls
+  170  touch xyz.txt
+  171  ls
+  172  rm -rf file1 
+  173  ls
+  174  cat > f1
+  175  touch file1.txt
+  176  touch file2.txt
+  177  touch file3.txt
+  178   ls
+  179   rm -rf file1.txt 
+  180   rm -rf file2.txt 
+  181   rm -rf file3.txt 
+  182   rm -rf xyz.txt
+  183  ls
+  184   rm -rf f1
+  185  ls
+  186  mkdir akshay1
+  187  cd /akshay1/
+  188  cd /akshay1
+  189  cd akshay1
+  190  cd
+  191  cd akshay1
+  192  touch file1.txt
+  193  ls
+  194  cd
+  195  cd akshay1
+  196  cp -r file.txt /akshay1
+  197  cp -r file.txt /akshay1/
+  198  cd
+  199  cp -r file.txt /akshay1
+  200  cd akshay1
+  201  cp file1.txt /akshay1
+  202  ls
+  203  cd
+  204  cd akshay1
+  205  cp -v  file1.txt /akshay1
+  206  ls
+  207  cp * file1.txt /akshay1
+  208  cp -v * file1.txt /akshay1
+  209  cd
+  210  poweroff 
+  211  poweroff 
+  212  history 
+  213  history > /opt/LinuxAdministration/30-11-19/history.txt
